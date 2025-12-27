@@ -1,4 +1,4 @@
-# black-market-site
+# black-market-challenge
 
 A marketplace web application built with React and Vite.
 
